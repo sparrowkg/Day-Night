@@ -1,0 +1,44 @@
+
+.day {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column  ;
+  justify-content: center;
+  align-items: center;
+}
+.sky-day {
+  width: 60%;
+  height: 70vh;
+  background-color: lightblue;
+}
+.sun {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: yellow;
+  margin: 30px;
+}
+button {
+  width: 200px;
+  height: 50px;
+  }
+  .night {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    align-items: center;
+  }
+  .sky-night {
+    width: 60%;
+    height: 70vh;
+    background-color: blue;
+  }
+  .moon {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 30px;
+  }
+
